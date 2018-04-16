@@ -1,0 +1,14 @@
+C:\Users\momor1\source\repos\demo\BLL\bin\Debug\BLL.dll
+C:\Users\momor1\source\repos\demo\BLL\bin\Debug\BLL.pdb
+C:\Users\momor1\source\repos\demo\BLL\bin\Debug\DependencyResolver.dll
+C:\Users\momor1\source\repos\demo\BLL\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\momor1\source\repos\demo\BLL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\momor1\source\repos\demo\BLL\bin\Debug\DependencyResolver.pdb
+C:\Users\momor1\source\repos\demo\BLL\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\momor1\source\repos\demo\BLL\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\momor1\source\repos\demo\BLL\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\momor1\source\repos\demo\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\momor1\source\repos\demo\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\momor1\source\repos\demo\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\momor1\source\repos\demo\BLL\obj\Debug\BLL.dll
+C:\Users\momor1\source\repos\demo\BLL\obj\Debug\BLL.pdb
